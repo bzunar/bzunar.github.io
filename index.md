@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Bojan Žunar's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bzunar/bzunar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+These pages showcase tasks completed during Coursera's 'Data Science' and 'Genomic Data Science Specializations'. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Coursera](https://www.coursera.org/) provides online courses from top universities and, to students that complete a course, offers a [Verified certificate](https://learner.coursera.help/hc/en-us/articles/208280196). Through ID verification, this document guarantees the identity of the person which completed required assignments, thus ensuring academic integrity. Yet, while completing the course highlights commitment, it does not illustrate what the students learned, i.e. what they can do. 
 
-### Markdown
+Most Coursera's courses include [Peer Reviewed Assignments](https://learner.coursera.help/hc/en-us/articles/208279946-See-feedback-and-grades-for-peer-reviewed-assignments), tasks which cannot be completed by simply "clicking-to-victory" and by answering interactive questions, but by implementing learned concepts to reproducibly solve and document non-trivial problems. This page lists few such reports to demonstrate the skills I acquired throughout the Specializations.
+
+
+
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
