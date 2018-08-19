@@ -21,12 +21,8 @@ Collapsible text
 
 - [R Programming](https://www.coursera.org/learn/r-programming)
   - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
-<details>
-  - <summary>Assignment details</summary>
+  - [Peer Reviewed Assignment]() 
 
-Collapsible text
-
-</details>
 
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
   - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
