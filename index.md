@@ -1,4 +1,4 @@
-## Welcome to Bojan Žunar's GitHub Pages
+## Welcome to Bojan Zunar's GitHub Pages
 
 These pages showcase tasks completed during Coursera's 'Data Science' and 'Genomic Data Science Specializations'. 
 
