@@ -77,9 +77,9 @@ Collapsible text
 <p> </p>
 - [Developing Data Products](https://www.coursera.org/learn/data-products) [(certificate)](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
   - <details>
-     <summary>Assignment details</summary>
+     <summary>Assignment: Shiny Nobel Application</summary>
 
-    Collapsible text
+    <small><p> </p><p align = "justify">You will create a Shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application. Deploy the application on RStudio's shiny server. Share your server.R and ui.R code on GitHub.</p><p align = "justify">Then, you will use Slidify or RStudio Presenter to prepare a reproducible pitch presentation about your application with an html5 slide deck. You get 5 slides (inclusive of the title slide) to pitch a your app. The presentation must contain some embedded R code that gets run when slidifying the document.</p><p align = "right"><b><a href="">Presentation</a></b></p><p align = "right"><b><a href="">Shiny App</a></b></p><p align = "right"><b><a href="">GitHub code</a></b></p></small>
     
     </details>
 <p> </p>
