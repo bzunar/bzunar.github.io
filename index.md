@@ -61,10 +61,15 @@ Collapsible text
 <p> </p>
 - [Regression Models](https://www.coursera.org/learn/regression-models) [(certificate)](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
   - <details>
-     <summary>Assignment details</summary>
+     <summary>Assignment: Motor Trend Cars</summary>
 
-    Collapsible text
-    
+    <small><p> </p><p align = "justify">You work for 'Motor Trend', a magazine about the automobile industry. Looking at a <a href="https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html">dataset of a collection of cars</a>, they are interested in exploring the relationship between a set of variables and miles per gallon (MPG) (outcome). They are particularly interested in two questions:</p>
+
+<p align = "justify">Is an automatic or manual transmission better for MPG?</p>
+<p align = "justify">Quantify the MPG difference between automatic and manual transmissions.</p>
+
+Be sure to perform exploratory analysis, detail strategy for model selection, interpret the coefficients, plot residuals, answer the questions of interest and quantify the uncertainty in your conclusions.</p><p align = "right"><b><a href="">The R Markdown Report</a></b></p></small>
+
     </details>
 <p> </p>
 - [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) [(certificate)](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
@@ -79,7 +84,7 @@ Collapsible text
   - <details>
      <summary>Assignment: Shiny Nobel Application</summary>
 
-    <small><p> </p><p align = "justify">You will create a Shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application. Deploy the application on RStudio's shiny server. Share your server.R and ui.R code on GitHub.</p><p align = "justify">Then, you will use Slidify or RStudio Presenter to prepare a reproducible pitch presentation about your application with an html5 slide deck. You get 5 slides (inclusive of the title slide) to pitch a your app. The presentation must contain some embedded R code that gets run when slidifying the document.</p><p align = "right"><b><a href="">Presentation</a></b></p><p align = "right"><b><a href="">Shiny App</a></b></p><p align = "right"><b><a href="">GitHub code</a></b></p></small>
+    <small><p> </p><p align = "justify">You will create a Shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application. Deploy the application on RStudio's shiny server. Share your server.R and ui.R code on GitHub.</p><p align = "justify">Then, you will use Slidify or RStudio Presenter to prepare a reproducible pitch presentation about your application with an html5 slide deck. You get 5 slides (inclusive of the title slide) to pitch a your app. The presentation must contain some embedded R code that gets run when slidifying the document.</p><p align = "right"><b><a href="">The Pitch</a></b></p><p align = "right"><b><a href="">Shiny App</a></b></p><p align = "right"><b><a href="">GitHub code</a></b></p></small>
     
     </details>
 <p> </p>
