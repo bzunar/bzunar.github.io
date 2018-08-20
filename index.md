@@ -29,49 +29,85 @@ Collapsible text
 <p> </p>
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
-  - [Peer Reviewed Assignment]() 
+  - <details>
+     <summary>Assignment details</summary>
 
-
+    Collapsible text
+    
+    </details>
+<p> </p>
 - [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/PSH3J3SQDZHK)
-  - [Peer Reviewed Assignment]() 
+  - <details>
+     <summary>Assignment details</summary>
 
-
+    Collapsible text
+    
+    </details>
+<p> </p>
 - [Reproducible Research](https://www.coursera.org/learn/reproducible-research)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB)
-  - [Peer Reviewed Assignment]() 
+  - <details>
+     <summary>Assignment details</summary>
 
-
+    Collapsible text
+    
+    </details>
+<p> </p>
 - [Statistical Inference](https://www.coursera.org/learn/statistical-inference)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
-  - [Peer Reviewed Assignment]() 
+  - <details>
+     <summary>Assignment details</summary>
 
-
+    Collapsible text
+    
+    </details>
+<p> </p>
 - [Regression Models](https://www.coursera.org/learn/regression-models)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
-  - [Peer Reviewed Assignment]() 
+  - <details>
+     <summary>Assignment details</summary>
 
-
+    Collapsible text
+    
+    </details>
+<p> </p>
 - [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
-  - [Peer Reviewed Assignment]() 
+  - <details>
+     <summary>Assignment details</summary>
 
-
+    Collapsible text
+    
+    </details>
+<p> </p>
 - [Developing Data Products](https://www.coursera.org/learn/data-products)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
-  - [Peer Reviewed Assignment]() 
+  - <details>
+     <summary>Assignment details</summary>
 
-
+    Collapsible text
+    
+    </details>
+<p> </p>
 - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/ABLH3WHC64Y8)
-  - [Peer Reviewed Assignment]() 
+  - <details>
+     <summary>Assignment details</summary>
 
-
+    Collapsible text
+    
+    </details>
+<p> </p>
 - [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
-  - [Peer Reviewed Assignment]() 
+  - <details>
+     <summary>Assignment details</summary>
 
-
+    Collapsible text
+    
+    </details>
+<p> </p>
 
 
 
