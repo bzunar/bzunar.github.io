@@ -19,6 +19,7 @@ Collapsible text
 
 ## Courses:
 
+<p>
 - [R Programming](https://www.coursera.org/learn/r-programming) [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
   - <details>
      <summary>Assignment details</summary>
@@ -26,7 +27,7 @@ Collapsible text
     Collapsible text
 
     </details>
-<br>
+</p>
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
   - [Peer Reviewed Assignment]() 
