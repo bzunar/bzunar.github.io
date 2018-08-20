@@ -53,17 +53,23 @@ Collapsible text
 <p> </p>
 - [Statistical Inference](https://www.coursera.org/learn/statistical-inference) [(certificate)](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
   - <details>
-     <summary>Assignment details</summary>
+     <summary>Assignment: Exponential Distribution</summary>
 
-    Collapsible text
+    <small><p> </p><p align = "justify">Investigate the exponential distribution in R and compare it with the Central Limit Theorem. The mean of exponential distribution is 1/lambda and the standard deviation is also 1/lambda, where lambda is the rate parameter. Set lambda = 0.2 for all of the simulations. Illustrate via simulation and associated explanatory text the properties of the distribution of averages of 40 exponentials by doing a thousand simulations. Show the sample mean and compare it to the theoretical mean of the distribution. Show how variable the sample is (via variance) and compare it to the theoretical variance of the distribution. Show that the distribution is approximately normal.</p><b><a href="">The R Markdown Report</a></b></p></small>
+    
+    </details>
+  - <details>
+     <summary>Assignment: Teeth Growth</summary>
+
+    <small><p> </p><p align = "justify">Analyze the ToothGrowth data from the R datasets package. Perform some basic exploratory data analyses and provide a basic summary of the data. Use confidence intervals and/or hypothesis tests to compare tooth growth by supplement and dose. State your conclusions and the assumptions needed for your conclusions.</p><b><a href="">The R Markdown Report</a></b></p></small>
     
     </details>
 <p> </p>
 - [Regression Models](https://www.coursera.org/learn/regression-models) [(certificate)](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
   - <details>
-     <summary>Assignment: Motor Trend Cars</summary>
+     <summary>Assignment: 'Motor Trend' Cars</summary>
 
-    <small><p> </p><p align = "justify">You work for 'Motor Trend', a magazine about the automobile industry. Looking at a <a href="https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html">dataset of a collection of cars</a>, they are interested in exploring the relationship between a set of variables and miles per gallon (MPG) (outcome). They are particularly interested in two questions:</p><p align = "center">Is an automatic or manual transmission better for MPG?<br>Quantify the MPG difference between automatic and manual transmissions.</p><p align = "justify">Be sure to perform exploratory analysis, detail strategy for model selection, interpret the coefficients, plot residuals, answer the questions of interest, and quantify the uncertainty in your conclusions.</p><p align = "right"><b><a href="">The R Markdown Report</a></b></p></small>
+    <small><p> </p><p align = "justify">You work for 'Motor Trend', a magazine about the automobile industry. Looking at a <a href="https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html">dataset of a collection of cars</a>, they are interested in exploring the relationship between a set of variables and miles per gallon (MPG) (outcome). They are particularly interested in question:</p><p align = "center">Is an automatic or manual transmission better for MPG?<br>Quantify the MPG difference between automatic and manual transmissions.</p><p align = "justify">Perform exploratory analysis, detail strategy for model selection, interpret the coefficients, plot residuals, answer the questions of interest, and quantify the uncertainty in your conclusions.</p><p align = "right"><b><a href="">The R Markdown Report</a></b></p></small>
 
     </details>
 <p> </p>
