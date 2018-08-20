@@ -19,53 +19,59 @@ Collapsible text
 
 ## Courses:
 
-- [R Programming](https://www.coursera.org/learn/r-programming)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
+- [R Programming](https://www.coursera.org/learn/r-programming) [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
   - [Peer Reviewed Assignment]() 
+<details>
+ <summary>  - Assignment details</summary>
+
+Collapsible text
+
+</details>
+
 
 
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
+  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
   - [Peer Reviewed Assignment]() 
 
 
 - [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/PSH3J3SQDZHK)
+  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/PSH3J3SQDZHK)
   - [Peer Reviewed Assignment]() 
 
 
 - [Reproducible Research](https://www.coursera.org/learn/reproducible-research)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB)
+  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB)
   - [Peer Reviewed Assignment]() 
 
 
 - [Statistical Inference](https://www.coursera.org/learn/statistical-inference)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
+  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
   - [Peer Reviewed Assignment]() 
 
 
 - [Regression Models](https://www.coursera.org/learn/regression-models)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
+  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
   - [Peer Reviewed Assignment]() 
 
 
 - [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
+  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
   - [Peer Reviewed Assignment]() 
 
 
 - [Developing Data Products](https://www.coursera.org/learn/data-products)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
+  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
   - [Peer Reviewed Assignment]() 
 
 
 - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/ABLH3WHC64Y8)
+  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/ABLH3WHC64Y8)
   - [Peer Reviewed Assignment]() 
 
 
 - [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor)
-  - [Verified cetrificate](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
+  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
   - [Peer Reviewed Assignment]() 
 
 
