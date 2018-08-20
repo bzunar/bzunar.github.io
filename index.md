@@ -3,7 +3,7 @@
 
 
 
-These pages showcase tasks completed during Coursera's '[**Data Science**](https://www.coursera.org/specializations/jhu-data-science)' and '[**Genomic Data Science**](https://www.coursera.org/specializations/genomic-data-science)' Specializations. 
+These pages showcase tasks completed during Coursera's [**Data Science**](https://www.coursera.org/specializations/jhu-data-science) and [**Genomic Data Science**](https://www.coursera.org/specializations/genomic-data-science) Specializations. 
 
 [Coursera](https://www.coursera.org/) provides online courses from top universities and, to students that complete a course, offers a [Verified certificate](https://learner.coursera.help/hc/en-us/articles/208280196). Through ID verification, this document guarantees the identity of the person which completed the required assignments, thus ensuring academic integrity. Yet, while finishing the course highlights commitment, it does not illustrate what the students learned, i.e. what they can do. 
 
@@ -27,8 +27,7 @@ Collapsible text
     
     </details>
 <p> </p>
-- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
-  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
+- [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning) [(certificate)](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
   - <details>
      <summary>Assignment details</summary>
 
@@ -36,8 +35,7 @@ Collapsible text
     
     </details>
 <p> </p>
-- [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis)
-  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/PSH3J3SQDZHK)
+- [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis) [(certificate)](https://www.coursera.org/account/accomplishments/records/PSH3J3SQDZHK)
   - <details>
      <summary>Assignment details</summary>
 
@@ -45,8 +43,7 @@ Collapsible text
     
     </details>
 <p> </p>
-- [Reproducible Research](https://www.coursera.org/learn/reproducible-research)
-  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB)
+- [Reproducible Research](https://www.coursera.org/learn/reproducible-research) [(certificate)](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB)
   - <details>
      <summary>Assignment details</summary>
 
@@ -54,8 +51,7 @@ Collapsible text
     
     </details>
 <p> </p>
-- [Statistical Inference](https://www.coursera.org/learn/statistical-inference)
-  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
+- [Statistical Inference](https://www.coursera.org/learn/statistical-inference) [(certificate)](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
   - <details>
      <summary>Assignment details</summary>
 
@@ -63,8 +59,7 @@ Collapsible text
     
     </details>
 <p> </p>
-- [Regression Models](https://www.coursera.org/learn/regression-models)
-  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
+- [Regression Models](https://www.coursera.org/learn/regression-models) [(certificate)](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
   - <details>
      <summary>Assignment details</summary>
 
@@ -72,8 +67,19 @@ Collapsible text
     
     </details>
 <p> </p>
-- [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
-  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
+- [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) [(certificate)](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
+  - <details>
+     <summary>Assignment: Weight Lifting</summary>
+
+Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts who take measurements about themselves regularly to improve their health, to find patterns in their behavior, or because they are tech geeks. One thing that people regularly do is quantify how much of a particular activity they do, but they rarely quantify how well they do it. In this project, your goal will be to use [data from accelerometers](http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har) on the belt, forearm, arm, and dumbell of 6 participants. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.
+
+The goal of your project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. You will also use your machine learning algorithm to predict 20 different test cases.
+
+[The R Markdown Report]()
+    
+    </details>
+<p> </p>
+- [Developing Data Products](https://www.coursera.org/learn/data-products) [(certificate)](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
   - <details>
      <summary>Assignment details</summary>
 
@@ -81,8 +87,7 @@ Collapsible text
     
     </details>
 <p> </p>
-- [Developing Data Products](https://www.coursera.org/learn/data-products)
-  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
+- [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics) [(certificate)](https://www.coursera.org/account/accomplishments/records/ABLH3WHC64Y8)
   - <details>
      <summary>Assignment details</summary>
 
@@ -90,17 +95,7 @@ Collapsible text
     
     </details>
 <p> </p>
-- [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
-  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/ABLH3WHC64Y8)
-  - <details>
-     <summary>Assignment details</summary>
-
-    Collapsible text
-    
-    </details>
-<p> </p>
-- [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor)
-  - [Verified certificate](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
+- [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor) [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
   - <details>
      <summary>Assignment details</summary>
 
