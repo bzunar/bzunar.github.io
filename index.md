@@ -21,12 +21,12 @@ Collapsible text
 
 - [R Programming](https://www.coursera.org/learn/r-programming) [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
   - [Peer Reviewed Assignment]() 
-<details>
- <summary>  - Assignment details</summary>
+  - <details>
+       <summary>  - Assignment details</summary>
 
 Collapsible text
 
-</details>
+    </details>
 
 
 
