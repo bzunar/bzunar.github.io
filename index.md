@@ -21,9 +21,7 @@ Collapsible text
 
 - [R Programming](https://www.coursera.org/learn/r-programming) [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
   - <details>
-     <summary>Assignment details 
-     
-     </summary>
+     <summary>Assignment details<br></summary>
 
     Collapsible text
 
