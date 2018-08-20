@@ -26,10 +26,7 @@ Collapsible text
     Collapsible text
 
     </details>
-
 <br>
-<br>
-
 - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
   - [Verified certificate](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
   - [Peer Reviewed Assignment]() 
