@@ -10,9 +10,9 @@
 
 ## Courses:
 
-- <b>[Bioconductor for Genomic Data Science]</b>(https://www.coursera.org/learn/bioconductor) [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
+- <b><a href="https://www.coursera.org/learn/bioconductor">Bioconductor for Genomic Data Science</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
   - <details>
-     <summary><a href="">Assignment: H3K4me3 vs. Transcription</a></summary>
+     <summary style="color:Blue;">Assignment: H3K4me3 vs. Transcription</summary>
 
     <small><p> </p><p align = "justify">The airway dataset contains more than 64k features. How many of these features overlaps with transcripts on the autosomes? A feature has to overlap the actual transcript, not the intron of a transcript.</p><p align = "justify">The expression measures of the airway dataset are the number of reads mapping to each feature. How many reads map to features which overlaps these transcripts?</p><p align = "justify">We should be able to very roughly divide these transcripts into expressed and non expressed transcript. Expressed transcripts should be marked by H3K4me3 at their promoter. What is the median number of counts per feature containing a H3K4me peak in their promoter? Compare this to the median number of counts for features without a H3K4me3 peak.</p><p align = "right"></p></small>
     
