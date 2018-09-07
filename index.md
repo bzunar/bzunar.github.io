@@ -10,6 +10,23 @@
 
 ## Courses:
 
+- [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor) [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
+  - <details>
+     <summary>Assignment details</summary>
+
+    <small><p> </p><p align = "justify">The airway dataset contains more than 64k features. How many of these features overlaps with transcripts on the autosomes? A feature has to overlap the actual transcript, not the intron of a transcript.<br>The expression measures of the airway dataset are the number of reads mapping to each feature. How many reads map to features which overlaps these transcripts?<br>We should be able to very roughly divide these transcripts into expressed and non expressed transcript. Expressed transcripts should be marked by H3K4me3 at their promoter. What is the median number of counts per feature containing a H3K4me peak in their promoter? Compare this to the median number of counts for features without a H3K4me3 peak.</p><p align = "right"><b><a href="https://bzunar.github.io/bioconductor-assignment.html">The R Markdown Report</a></b></p></small>
+    
+    </details>
+<p> </p>
+
+- [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics) [(certificate)](https://www.coursera.org/account/accomplishments/records/ABLH3WHC64Y8)
+  - <details>
+     <summary>Assignment: Fnding ORFs and Repeats</summary>
+
+    <small><p> </p><p align = "justify">Write a Python program that takes as input a file containing DNA sequences in multi-FASTA format, and computes the answers to the following questions.<br>How many records are in the file?< What are the lengths of the sequences in the file? What is the longest sequence and what is the shortest sequence? Is there more than one longest or shortest sequence? What are their identifiers?<br>What is the length of the longest ORF in the file? What is the identifier of the sequence containing the longest ORF? For a given sequence identifier, what is the longest ORF contained in the sequence represented by that identifier? What is the starting position of the longest ORF in the sequence that contains it?<br>Identify all repeats of length n in all sequences in the FASTA file. Determine how many times each repeat occurs in the file, and which is the most frequent repeat of a given length.</p><p align = "right"><b><a href="https://bzunar.github.io/python-assignment.html">The R Markdown Report</a></b></p></small>
+    
+    </details>
+<p> </p>
 - [Developing Data Products](https://www.coursera.org/learn/data-products) [(certificate)](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
   - <details>
      <summary>Assignment: Shiny Nobel App</summary>
@@ -53,22 +70,6 @@
      <summary>Assignment: NOAA's Storm Database</summary>
 
     <small><p> </p><p align = "justify">Storms and other severe weather events cause both public health and economic problems. Many severe events result in fatalities, injuries, and property damage, and preventing such outcomes is a key concern. The basic goal of this assignment is to explore the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database which tracks characteristics of major storms and weather events in the United States. It details when and where they occur and estimates fatalities, injuries, and property damage. Use the database to address the following questions:</p><p align = "center">Across the United States, which types of events (as indicated in the EVTYPE variable) are most harmful with respect to population health?<br>Across the United States, which types of events have the greatest economic consequences?</p><p align = "justify">Show the code for your entire analysis. Write your report as if it were to be read by a government or municipal manager who might be responsible for preparing for severe weather events and will need to prioritize resources for different types of events. However, there is no need to make any specific recommendations in your report.</p><p align = "right"><b><a href="https://bzunar.github.io/storm-dataset.html">The R Markdown Report</a></b></p></small>
-    
-    </details>
-<p> </p>
-- [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics) [(certificate)](https://www.coursera.org/account/accomplishments/records/ABLH3WHC64Y8)
-  - <details>
-     <summary>Assignment details</summary>
-
-    Collapsible text
-    
-    </details>
-<p> </p>
-- [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor) [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
-  - <details>
-     <summary>Assignment details</summary>
-
-    Collapsible text
     
     </details>
 <p> </p>
