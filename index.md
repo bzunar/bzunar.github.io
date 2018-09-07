@@ -117,7 +117,7 @@
     
     </details>
 
-<p> </p>
+    <p> </p>
 
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Teeth Growth</i></summary>
@@ -137,7 +137,7 @@
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Storm Database</i></summary>
 
-    <small><p> </p><p align = "justify">Storms and other severe weather events cause both public health and economic problems. Many severe events result in fatalities, injuries, and property damage, and preventing such outcomes is a key concern. The basic goal of this assignment is to explore the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database which tracks characteristics of major storms and weather events in the United States. It details when and where they occur and estimates fatalities, injuries, and property damage. Use the database to address the following questions:</p><p align = "center">Across the United States, which types of events (as indicated in the EVTYPE variable) are most harmful with respect to population health?<br>Across the United States, which types of events have the greatest economic consequences?</p><p align = "justify">Show the code for your entire analysis. Write your report as if it were to be read by a government or municipal manager who might be responsible for preparing for severe weather events and will need to prioritize resources for different types of events. However, there is no need to make any specific recommendations in your report.</p></small>
+    <small><p> </p><p align = "justify">Storms and other severe weather events cause both public health and economic problems. Many severe events result in fatalities, injuries, and property damage, and preventing such outcomes is a key concern. The basic goal of this assignment is to explore the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database which tracks characteristics of major storms and weather events in the United States. It details when and where they occur and estimates fatalities, injuries, and property damage. Use the database to address the following questions:</p><p align = "center">Across the United States, which types of events are most harmful with respect to population health?<br>Across the United States, which types of events have the greatest economic consequences?</p><p align = "justify">Show the code for your entire analysis. Write your report as if it were to be read by a government or municipal manager who might be responsible for preparing for severe weather events and will need to prioritize resources for different types of events. However, there is no need to make any specific recommendations in your report.</p></small>
     
     </details>
   - <details>
@@ -154,7 +154,7 @@
 - <b><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/r-programming</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
+- <b><a href="https://www.coursera.org/learn/r-programming>R Programming</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
 <p> </p>
 
 
