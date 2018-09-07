@@ -30,11 +30,11 @@
     
     </details>
   - <details>
-     <summary><a href="https://bzunar.github.io/python-assignment.html">The R Markdown Report</a></summary>
+     <summary><a href="https://bzunar.github.io/python-assignment.html">The Markdown Report</a></summary>
     </details>
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/data-products">Developing Data Products></a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
+- <b><a href="https://www.coursera.org/learn/data-products">Developing Data Products</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
   - <details>
      <summary style="color:#1e6bb8;>Assignment: Shiny Nobel App</summary>
 
@@ -54,14 +54,19 @@
      <summary><a href="https://github.com/bzunar/DevelopingDataProducts/blob/master/ui.R">ui.R</a></summary>
     </details>
 <p> </p>
-- [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning) [(certificate)](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
+
+- <b><a href="https://www.coursera.org/learn/practical-machine-learning">Practical Machine Learning></a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
   - <details>
      <summary style="color:#1e6bb8;>Assignment: Weight Lifting</summary>
 
-    <small><p> </p><p align = "justify">Devices like Jawbone Up, Nike FuelBand, and Fitbit collect a large amount of data about personal activity. They are a part of the quantified self movement – a group of enthusiasts who take measurements to improve their health, to find patterns in their behavior, or because they are tech geeks. People regularly quantify how much of a particular activity they do, but rarely how well they do it. In this project, you use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants <a href="http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har">(Weight Lifting Exercises Dataset)</a>. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.</p><p align = "justify">The goal is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may predict with any of the other variables. Describe how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. Use your machine learning algorithm to predict 20 different test cases.</p><p align = "right"><b><a href="https://bzunar.github.io/weight-lifting.html">The R Markdown Report</a></b></p></small>
+    <small><p> </p><p align = "justify">Devices like Jawbone Up, Nike FuelBand, and Fitbit collect a large amount of data about personal activity. They are a part of the quantified self movement – a group of enthusiasts who take measurements to improve their health, to find patterns in their behavior, or because they are tech geeks. People regularly quantify how much of a particular activity they do, but rarely how well they do it. In this project, you use data from accelerometers on the belt, forearm, arm, and dumbell of 6 participants <a href="http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har">(Weight Lifting Exercises Dataset)</a>. They were asked to perform barbell lifts correctly and incorrectly in 5 different ways.</p><p align = "justify">The goal is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may predict with any of the other variables. Describe how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. Use your machine learning algorithm to predict 20 different test cases.</p></small>
     
     </details>
+  - <details>
+     <summary><a href="https://bzunar.github.io/weight-lifting.html">The R Markdown Report</a></summary>
+    </details>
 <p> </p>
+
 - [Regression Models](https://www.coursera.org/learn/regression-models) [(certificate)](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
   - <details>
      <summary style="color:#1e6bb8;>Assignment: 'Motor Trend' Cars</summary>
