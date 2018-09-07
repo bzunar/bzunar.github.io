@@ -12,13 +12,13 @@
 
 - <b><a href="https://www.coursera.org/learn/bioconductor">Bioconductor for Genomic Data Science</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
   - <details>
-     <summary style="color:#1e6bb8;">Assignment: <b>H3K4me3 vs. Transcription</b></summary>
+     <summary style="color:#1e6bb8;">Assignment: <i>H3K4me3 vs. Transcription</i></summary>
 
     <small><p> </p><p align = "justify">The airway dataset contains more than 64k features. How many of these features overlaps with transcripts on the autosomes? A feature has to overlap the actual transcript, not the intron of a transcript.</p><p align = "justify">The expression measures of the airway dataset are the number of reads mapping to each feature. How many reads map to features which overlaps these transcripts?</p><p align = "justify">We should be able to very roughly divide these transcripts into expressed and non expressed transcript. Expressed transcripts should be marked by H3K4me3 at their promoter. What is the median number of counts per feature containing a H3K4me peak in their promoter? Compare this to the median number of counts for features without a H3K4me3 peak.</p></small>
     
     </details>
   - <details>
-     <summary><a href="https://bzunar.github.io/bioconductor-assignment.html">The R Markdown Report</a></summary>
+     <summary><a href="https://bzunar.github.io/bioconductor-assignment.html">Report</a></summary>
     </details>
 <p> </p>
 
@@ -30,7 +30,7 @@
     
     </details>
   - <details>
-     <summary><a href="https://bzunar.github.io/python-assignment.html">The Markdown Report</a></summary>
+     <summary><a href="https://bzunar.github.io/python-assignment.html">Report</a></summary>
     </details>
 <p> </p>
 
@@ -63,7 +63,7 @@
     
     </details>
   - <details>
-     <summary><a href="https://bzunar.github.io/weight-lifting.html">The R Markdown Report</a></summary>
+     <summary><a href="https://bzunar.github.io/weight-lifting.html">Report</a></summary>
     </details>
 <p> </p>
 
@@ -75,25 +75,33 @@
 
     </details>
   - <details>
-     <summary><a href="https://bzunar.github.io/motor-trend.html">The R Markdown Report</a></summary>
+     <summary><a href="https://bzunar.github.io/motor-trend.html">Report</a></summary>
     </details>
 <p> </p>
 
-- [Statistical Inference](https://www.coursera.org/learn/statistical-inference) [(certificate)](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
+- <b><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <b>Exponential Distribution</b></summary>
 
-    <small><p> </p><p align = "justify">Investigate the exponential distribution in R and compare it with the Central Limit Theorem. The mean of exponential distribution is 1/lambda and the standard deviation is also 1/lambda, where lambda is the rate parameter. Set lambda = 0.2 for all of the simulations. Illustrate via simulation and associated explanatory text properties of the distribution of averages of 40 exponentials by doing a thousand simulations. Show the sample mean and compare it to the theoretical mean of the distribution. Show how variable the sample is (via variance) and compare it to the theoretical variance of the distribution. Show that the distribution is approximately normal.</p><p align = "right"><b><a href="https://bzunar.github.io/random-exponentials.html">The R Markdown Report</a></b></p></small>
+    <small><p> </p><p align = "justify">Investigate the exponential distribution in R and compare it with the Central Limit Theorem. The mean of exponential distribution is 1/lambda and the standard deviation is also 1/lambda, where lambda is the rate parameter. Set lambda = 0.2 for all of the simulations. Illustrate via simulation and associated explanatory text properties of the distribution of averages of 40 exponentials by doing a thousand simulations. Show the sample mean and compare it to the theoretical mean of the distribution. Show how variable the sample is (via variance) and compare it to the theoretical variance of the distribution. Show that the distribution is approximately normal.</p></small>
     
     </details>
   - <details>
+     <summary><a href="https://bzunar.github.io/random-exponentials.html">Report</a></summary>
+    </details>
+
+  - <details>
      <summary style="color:#1e6bb8;">Assignment: <b>Teeth Growth</b></summary>
 
-    <small><p> </p><p align = "justify">Analyze the ToothGrowth data from the R datasets package. Perform exploratory data analyses and provide a basic summary of the data. Use confidence intervals and/or hypothesis tests to compare tooth growth by supplement and dose. State your conclusions and needed assumptions.</p><p align = "right"><b><a href="https://bzunar.github.io/teeth-growth.html">The R Markdown Report</a></b></p></small>
+    <small><p> </p><p align = "justify">Analyze the ToothGrowth data from the R datasets package. Perform exploratory data analyses and provide a basic summary of the data. Use confidence intervals and/or hypothesis tests to compare tooth growth by supplement and dose. State your conclusions and needed assumptions.</p><p align = "right"></p></small>
     
     </details>
+  - <details>
+     <summary><a href="https://bzunar.github.io/teeth-growth.html">Report</a></summary>
+    </details>
 <p> </p>
-- [Reproducible Research](https://www.coursera.org/learn/reproducible-research) [(certificate)](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB)
+
+- <b><a href="https://www.coursera.org/learn/reproducible-research">Reproducible Research</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB)
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <b>Storm Database</b></summary>
 
