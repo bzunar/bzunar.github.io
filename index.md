@@ -154,7 +154,7 @@
 - <b><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/r-programming>R Programming</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
+- <b><a href="https://www.coursera.org/learn/r-programming">R Programming</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
 <p> </p>
 
 
