@@ -10,15 +10,15 @@
 
 ## Courses:
 
-- [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor) [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
+- <b>[Bioconductor for Genomic Data Science]</b>(https://www.coursera.org/learn/bioconductor) [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
   - <details>
-     <summary>Assignment: H3K4me3 vs. Transcription</summary>
+     <summary><a href="">Assignment: H3K4me3 vs. Transcription</a></summary>
 
-    <small><p> </p><p align = "justify">The airway dataset contains more than 64k features. How many of these features overlaps with transcripts on the autosomes? A feature has to overlap the actual transcript, not the intron of a transcript.</p><p align = "justify">The expression measures of the airway dataset are the number of reads mapping to each feature. How many reads map to features which overlaps these transcripts?</p><p align = "justify">We should be able to very roughly divide these transcripts into expressed and non expressed transcript. Expressed transcripts should be marked by H3K4me3 at their promoter. What is the median number of counts per feature containing a H3K4me peak in their promoter? Compare this to the median number of counts for features without a H3K4me3 peak.</p><p align = "right"></small>
+    <small><p> </p><p align = "justify">The airway dataset contains more than 64k features. How many of these features overlaps with transcripts on the autosomes? A feature has to overlap the actual transcript, not the intron of a transcript.</p><p align = "justify">The expression measures of the airway dataset are the number of reads mapping to each feature. How many reads map to features which overlaps these transcripts?</p><p align = "justify">We should be able to very roughly divide these transcripts into expressed and non expressed transcript. Expressed transcripts should be marked by H3K4me3 at their promoter. What is the median number of counts per feature containing a H3K4me peak in their promoter? Compare this to the median number of counts for features without a H3K4me3 peak.</p><p align = "right"></p></small>
     
     </details>
   - <details>
-     <summary><b><a href="https://bzunar.github.io/bioconductor-assignment.html">The R Markdown Report</a></b></p></summary>
+     <summary><a href="https://bzunar.github.io/bioconductor-assignment.html">The R Markdown Report</a></summary>
 <p> </p>
 
 - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics) [(certificate)](https://www.coursera.org/account/accomplishments/records/ABLH3WHC64Y8)
