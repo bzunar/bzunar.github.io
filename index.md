@@ -20,7 +20,7 @@
   - <details>
      <summary><a href="https://bzunar.github.io/bioconductor-assignment.html">Report</a></summary>
      
-     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/bioconductor-assignment.html">The R Markdown Report</b></a>
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/bioconductor-assignment.html">The R Markdown Report</a></b></p></small>
     
     </details>
 <p> </p>
@@ -34,6 +34,9 @@
     </details>
   - <details>
      <summary><a href="https://bzunar.github.io/python-assignment.html">Report</a></summary>
+         
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/python-assignment.html">The R Markdown Report</a></b></p></small>
+    
     </details>
 <p> </p>
 
@@ -46,15 +49,27 @@
     </details>
   - <details>
      <summary><a href="https://bzunar.github.io/shiny-presentation.html">The Pitch</a></summary>
+              
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/shiny-presentation.html">The Pitch</a></b></p></small>
+    
     </details>
   - <details>
      <summary><a href="https://bzunar.shinyapps.io/nobelbirthdeath/">Shiny App</a></summary>
+              
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.shinyapps.io/nobelbirthdeath/">Shiny App</a></b></p></small>
+    
     </details>
   - <details>
      <summary><a href="https://github.com/bzunar/DevelopingDataProducts/blob/master/server.R">server.R</a></summary>
+              
+     <small><p> </p><p align = "center"><b><a href="https://github.com/bzunar/DevelopingDataProducts/blob/master/server.R">server.R</a></b></p></small>
+    
     </details>
   - <details>
      <summary><a href="https://github.com/bzunar/DevelopingDataProducts/blob/master/ui.R">ui.R</a></summary>
+              
+     <small><p> </p><p align = "center"><b><a href="https://github.com/bzunar/DevelopingDataProducts/blob/master/ui.R">ui.R</a></b></p></small>
+    
     </details>
 <p> </p>
 
@@ -67,6 +82,9 @@
     </details>
   - <details>
      <summary><a href="https://bzunar.github.io/weight-lifting.html">Report</a></summary>
+              
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/weight-lifting.html">The R Markdown Report</a></b></p></small>
+    
     </details>
 <p> </p>
 
