@@ -97,6 +97,9 @@
     </details>
   - <details>
      <summary><a href="https://bzunar.github.io/motor-trend.html">Report</a></summary>
+                   
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/motor-trend.html">The R Markdown Report</a></b></p></small>
+    
     </details>
 <p> </p>
 
@@ -109,17 +112,24 @@
     </details>
   - <details>
      <summary><a href="https://bzunar.github.io/random-exponentials.html">Report</a></summary>
+                        
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/random-exponentials.html">The R Markdown Report</a></b></p></small>
+    
     </details>
+
+<p> </p>
 
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Teeth Growth</i></summary>
-<p> </p>
 
     <small><p> </p><p align = "justify">Analyze the ToothGrowth data from the R datasets package. Perform exploratory data analyses and provide a basic summary of the data. Use confidence intervals and/or hypothesis tests to compare tooth growth by supplement and dose. State your conclusions and needed assumptions.</p><p align = "right"></p></small>
     
     </details>
   - <details>
      <summary><a href="https://bzunar.github.io/teeth-growth.html">Report</a></summary>
+                             
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/teeth-growth.html">The R Markdown Report</a></b></p></small>
+    
     </details>
 <p> </p>
 
@@ -132,6 +142,9 @@
     </details>
   - <details>
      <summary><a href="https://bzunar.github.io/storm-dataset.html">Report</a></summary>
+                                  
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/storm-dataset.html">The R Markdown Report</a></b></p></small>
+    
     </details>
 <p> </p>
 
