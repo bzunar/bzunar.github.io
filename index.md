@@ -21,7 +21,7 @@
     
     </details>
   - <details>
-     <summary><a href="https://bzunar.shinyapps.io/cassandra/">Shiny app: Cassandra A.I.</a></summary>
+     <summary><a href="https://bzunar.shinyapps.io/cassandra/">Shiny App: Cassandra A.I.</a></summary>
      
      <small><p> </p><p align = "center"><b><a href="https://bzunar.shinyapps.io/cassandra/">The Shiny App</a></b></p></small>
     
