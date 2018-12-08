@@ -10,15 +10,15 @@
 
 ## Courses:
 
-- <b><a href="https://www.coursera.org/specializations/jhu-data-science">Data Science Specliazitaion</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)
+- <b><a href="https://www.coursera.org/specializations/jhu-data-science">Data Science Specialization</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)
 <p> </p>
 
 - <b><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/VMTGUTF65NLB)
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Building a Predictive Text Model</i></summary>
 
-    <small><p> </p><p align = "justify">Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. But typing on mobile devices can be a serious pain. SwiftKey, our corporate partner in this capstone, builds a smart keyboard that makes it easier for people to type on their mobile devices. One cornerstone of their smart keyboard is predictive text models. When someone types:</p><p align = "justify"><p>I went to the</p><p align = "justify">the keyboard presents three options for what the next word might be. For example, the three words might be gym, store, restaurant. In this capstone you will work on understanding and building predictive text models like those used by SwiftKey.</p></small>
-
+    <small><p> </p><p align = "justify">Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. But typing on mobile devices can be a serious pain. SwiftKey, our corporate partner in this capstone, builds a smart keyboard that makes it easier for people to type on their mobile devices. One cornerstone of their smart keyboard is predictive text models. When someone types:</p><p align = "center"><p>I went to the</p><p align = "justify">the keyboard presents three options for what the next word might be. For example, the three words might be gym, store, restaurant. In this capstone you will work on understanding and building predictive text models like those used by SwiftKey.</p></small>
+    
     </details>
   - <details>
      <summary><a href="https://bzunar.shinyapps.io/cassandra/">Shiny app: Cassandra A.I.</a></summary>
