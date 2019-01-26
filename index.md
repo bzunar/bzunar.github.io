@@ -8,9 +8,7 @@
 <p align = "justify">Most Coursera's courses include <a href="https://learner.coursera.help/hc/en-us/articles/208279946-See-feedback-and-grades-for-peer-reviewed-assignments">Peer Reviewed Assignments</a>, tasks which cannot be completed by merely "clicking-to-victory" and by answering interactive questions, but by implementing learned concepts to solve and document non-trivial problems reproducibly. This page lists few such reports to demonstrate the skills I acquired throughout the Specializations.</p>
 
 
-## Courses:
-
-<b><a href="https://www.coursera.org/specializations/genomic-data-science">John Hopkins: 'Genomic Data Science' Specialization</a></b>
+### <b><a href="https://www.coursera.org/specializations/genomic-data-science">'Genomic Data Science' Specialization (John Hopkins)</a></b>
 <p> </p>
 
 - <b><a href="https://www.coursera.org/learn/bioconductor">Bioconductor for Genomic Data Science</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
@@ -50,7 +48,7 @@
 <p> </p>
 
 
-<b><a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins: 'Data Science' Specialization</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)
+### <b><a href="https://www.coursera.org/specializations/jhu-data-science">'Data Science' Specialization (John Hopkins)</a></b><small> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)</small>
 <p> </p>
 
 - <b><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/VMTGUTF65NLB)
