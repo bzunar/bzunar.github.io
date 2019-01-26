@@ -10,27 +10,7 @@
 
 ## Courses:
 
-<b><a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins: 'Data Science' Specialization</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)
-<p> </p>
-
-- <b><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/VMTGUTF65NLB) <small>'Data Science' Specialization</small>
-  - <details>
-     <summary style="color:#1e6bb8;">Assignment: <i>Building a Predictive Text Model</i></summary>
-
-    <small><p> </p><p align = "justify">Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. But typing on mobile devices can be a serious pain. SwiftKey, our corporate partner in this capstone, builds a smart keyboard that makes it easier for people to type on their mobile devices. One cornerstone of their smart keyboard is predictive text models. When someone types:</p><p align = "center">I went to the</p><p align = "justify">the keyboard presents three options for what the next word might be. For example, the three words might be gym, store, restaurant. In this capstone you will work on understanding and building predictive text models like those used by SwiftKey.</p></small>
-    
-    </details>
-  - <details>
-     <summary><a href="https://bzunar.shinyapps.io/cassandra/">Shiny App: Cassandra A.I.</a></summary>
-     
-     <small><p> </p><p align = "center"><b><a href="https://bzunar.shinyapps.io/cassandra/">The Shiny App</a></b></p></small>
-    
-    </details>
-  - <details>
-     <summary><a href="http://rpubs.com/bzunar/cassandra-ai">R Markdown Slide Deck</a></summary>
-     
-     <small><p> </p><p align = "center"><b><a href="http://rpubs.com/bzunar/cassandra-ai">R Markdown Slide Deck</a></b></p></small>
-    </details>
+<b><a href="https://www.coursera.org/specializations/genomic-data-science">John Hopkins: 'Genomic Data Science' Specialization</a></b>
 <p> </p>
 
 - <b><a href="https://www.coursera.org/learn/bioconductor">Bioconductor for Genomic Data Science</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/7XTSS4LNY5SJ)
@@ -63,7 +43,37 @@
     </details>
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/data-products">Developing Data Products</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ) / Part of John Hopkins' "Data Science" Specialization
+- <b><a href="https://www.coursera.org/learn/dna-sequencing">Algorithms for DNA Sequencing</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/8UAVHBGPK9E4)
+<p> </p>
+
+- <b><a href="https://www.coursera.org/learn/galaxy-project">Genomic Data Science with Galaxy</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/RKTEAZH5M4W5)
+<p> </p>
+
+
+<b><a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins: 'Data Science' Specialization</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)
+<p> </p>
+
+- <b><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/VMTGUTF65NLB)
+  - <details>
+     <summary style="color:#1e6bb8;">Assignment: <i>Building a Predictive Text Model</i></summary>
+
+    <small><p> </p><p align = "justify">Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. But typing on mobile devices can be a serious pain. SwiftKey, our corporate partner in this capstone, builds a smart keyboard that makes it easier for people to type on their mobile devices. One cornerstone of their smart keyboard is predictive text models. When someone types:</p><p align = "center">I went to the</p><p align = "justify">the keyboard presents three options for what the next word might be. For example, the three words might be gym, store, restaurant. In this capstone you will work on understanding and building predictive text models like those used by SwiftKey.</p></small>
+    
+    </details>
+  - <details>
+     <summary><a href="https://bzunar.shinyapps.io/cassandra/">Shiny App: Cassandra A.I.</a></summary>
+     
+     <small><p> </p><p align = "center"><b><a href="https://bzunar.shinyapps.io/cassandra/">The Shiny App</a></b></p></small>
+    
+    </details>
+  - <details>
+     <summary><a href="http://rpubs.com/bzunar/cassandra-ai">R Markdown Slide Deck</a></summary>
+     
+     <small><p> </p><p align = "center"><b><a href="http://rpubs.com/bzunar/cassandra-ai">R Markdown Slide Deck</a></b></p></small>
+    </details>
+<p> </p>
+
+- <b><a href="https://www.coursera.org/learn/data-products">Developing Data Products</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Shiny Nobel App</i></summary>
 
@@ -96,7 +106,7 @@
     </details>
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/practical-machine-learning">Practical Machine Learning</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ) / Part of John Hopkins' "Data Science" Specialization
+- <b><a href="https://www.coursera.org/learn/practical-machine-learning">Practical Machine Learning</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Weight Lifting</i></summary>
 
@@ -111,22 +121,22 @@
     </details>
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/regression-models">Regression Models</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63) / Part of John Hopkins' "Data Science" Specialization
+- <b><a href="https://www.coursera.org/learn/regression-models">Regression Models</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z) / Part of John Hopkins' "Data Science" Specialization
+- <b><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/reproducible-research">Reproducible Research</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB) / Part of John Hopkins' "Data Science" Specialization
+- <b><a href="https://www.coursera.org/learn/reproducible-research">Reproducible Research</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB)
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/PSH3J3SQDZHK) / Part of John Hopkins' "Data Science" Specialization
+- <b><a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/PSH3J3SQDZHK)
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9) / Part of John Hopkins' "Data Science" Specialization
+- <b><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/r-programming">R Programming</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9) / Part of John Hopkins' "Data Science" Specialization
+- <b><a href="https://www.coursera.org/learn/r-programming">R Programming</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
 <p> </p>
 
 
