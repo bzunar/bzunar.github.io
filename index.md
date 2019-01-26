@@ -45,8 +45,8 @@
 <p> </p>
 
 - <b><a href="https://www.coursera.org/learn/galaxy-project">Genomic Data Science with Galaxy</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/RKTEAZH5M4W5)
-<p> </p>
 
+<br>
 
 ### <b><a href="https://www.coursera.org/specializations/jhu-data-science">'Data Science' Specialization (John Hopkins)</a></b><small> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)</small>
 <p> </p>
@@ -135,8 +135,23 @@
 <p> </p>
 
 - <b><a href="https://www.coursera.org/learn/r-programming">R Programming</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
+
+<br>
+
+### <b><a href="https://www.coursera.org/specializations/python">'Python' Specialization (University of Michigan)</a></b><small> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/GF4RNGW38DZP)</small>
 <p> </p>
 
+- <b><a href="https://www.coursera.org/learn/python-data-visualization">Capstone: Retrieving, Processing, and Visualizing Data with Python</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/LA6T8L66AD52)
+<p> </p>
+
+- <b><a href="https://www.coursera.org/learn/python-databases">Using Databases with Python</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/R8PMZ3M8XDWM)
+<p> </p>
+
+- <b><a href="https://www.coursera.org/learn/python-network-data">Using Python to Access Web Data</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/DPGKHYTK2KG2)
+<p> </p>
+
+- <b><a href="https://www.coursera.org/learn/python-data">Python Data Structures</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/3KTGAW5RRLEN)
+<p> </p>
 
 <br>
 <large><p align = "center"><b>Thank you for visiting! :)</b></p></large>
