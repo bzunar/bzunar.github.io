@@ -13,7 +13,7 @@
 - <b><a href="https://www.coursera.org/specializations/jhu-data-science">Data Science Specialization</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/VMTGUTF65NLB)
+- <b><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/VMTGUTF65NLB) / Part of John Hopkins' "Data Science" Specialization
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Building a Predictive Text Model</i></summary>
 
@@ -63,7 +63,7 @@
     </details>
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/data-products">Developing Data Products</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ)
+- <b><a href="https://www.coursera.org/learn/data-products">Developing Data Products</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/98SLMCHQQUKQ) / Part of John Hopkins' "Data Science" Specialization
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Shiny Nobel App</i></summary>
 
@@ -96,7 +96,7 @@
     </details>
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/practical-machine-learning">Practical Machine Learning</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ)
+- <b><a href="https://www.coursera.org/learn/practical-machine-learning">Practical Machine Learning</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CNJYP57WSYDJ) / Part of John Hopkins' "Data Science" Specialization
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Weight Lifting</i></summary>
 
@@ -111,73 +111,22 @@
     </details>
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/regression-models">Regression Models</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63)
-  - <details>
-     <summary style="color:#1e6bb8;">Assignment: <i>'Motor Trend' Cars</i></summary>
-
-    <small><p> </p><p align = "justify">'Motor Trend' is a magazine about the automobile industry. Looking at a <a href="https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html">a collection of cars</a>, they wish to explore the relationship between a set of variables and fuel consumption (miles per gallon, MPG) (outcome). They are particularly interested in question:</p><p align = "center">Is an automatic or manual transmission better for MPG?<br>Quantify the MPG difference between automatic and manual transmissions.</p><p align = "justify">Perform exploratory analysis, detail strategy for model selection, interpret the coefficients, plot residuals, answer the questions of interest, and quantify the uncertainty in your conclusions.</p></small>
-
-    </details>
-  - <details>
-     <summary><a href="https://bzunar.github.io/motor-trend.html">Report</a></summary>
-                   
-     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/motor-trend.html">The R Markdown Report</a></b></p></small>
-    
-    </details>
+- <b><a href="https://www.coursera.org/learn/regression-models">Regression Models</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/XHXEYB7VEV63) / Part of John Hopkins' "Data Science" Specialization
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z)
-  - <details>
-     <summary style="color:#1e6bb8;">Assignment: <i>Exponential Distribution</i></summary>
-
-    <small><p> </p><p align = "justify">Investigate the exponential distribution in R and compare it with the Central Limit Theorem. The mean of exponential distribution is 1/lambda and the standard deviation is also 1/lambda, where lambda is the rate parameter. Set lambda = 0.2 for all of the simulations. Illustrate via simulation and associated explanatory text properties of the distribution of averages of 40 exponentials by doing a thousand simulations. Show the sample mean and compare it to the theoretical mean of the distribution. Show how variable the sample is (via variance) and compare it to the theoretical variance of the distribution. Show that the distribution is approximately normal.</p></small>
-    
-    </details>
-  - <details>
-     <summary><a href="https://bzunar.github.io/random-exponentials.html">Report</a></summary>
-                        
-     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/random-exponentials.html">The R Markdown Report</a></b></p></small>
-    
-    </details>
-
-    <p> </p>
-
-  - <details>
-     <summary style="color:#1e6bb8;">Assignment: <i>Teeth Growth</i></summary>
-
-    <small><p> </p><p align = "justify">Analyze the ToothGrowth data from the R datasets package. Perform exploratory data analyses and provide a basic summary of the data. Use confidence intervals and/or hypothesis tests to compare tooth growth by supplement and dose. State your conclusions and needed assumptions.</p><p align = "right"></p></small>
-    
-    </details>
-  - <details>
-     <summary><a href="https://bzunar.github.io/teeth-growth.html">Report</a></summary>
-                             
-     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/teeth-growth.html">The R Markdown Report</a></b></p></small>
-    
-    </details>
+- <b><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/CG6N5R7VWM6Z) / Part of John Hopkins' "Data Science" Specialization
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/reproducible-research">Reproducible Research</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB)
-  - <details>
-     <summary style="color:#1e6bb8;">Assignment: <i>Storm Database</i></summary>
-
-    <small><p> </p><p align = "justify">Storms and other severe weather events cause both public health and economic problems. Many severe events result in fatalities, injuries, and property damage, and preventing such outcomes is a key concern. The basic goal of this assignment is to explore the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database which tracks characteristics of major storms and weather events in the United States. It details when and where they occur and estimates fatalities, injuries, and property damage. Use the database to address the following questions:</p><p align = "center">Across the United States, which types of events are most harmful with respect to population health?<br>Across the United States, which types of events have the greatest economic consequences?</p><p align = "justify">Show the code for your entire analysis. Write your report as if it were to be read by a government or municipal manager who might be responsible for preparing for severe weather events and will need to prioritize resources for different types of events. However, there is no need to make any specific recommendations in your report.</p></small>
-    
-    </details>
-  - <details>
-     <summary><a href="https://bzunar.github.io/storm-dataset.html">Report</a></summary>
-                                  
-     <small><p> </p><p align = "center"><b><a href="https://bzunar.github.io/storm-dataset.html">The R Markdown Report</a></b></p></small>
-    
-    </details>
+- <b><a href="https://www.coursera.org/learn/reproducible-research">Reproducible Research</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/7XZKEGNBBNVB) / Part of John Hopkins' "Data Science" Specialization
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/PSH3J3SQDZHK)
+- <b><a href="https://www.coursera.org/learn/exploratory-data-analysis">Exploratory Data Analysis</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/PSH3J3SQDZHK) / Part of John Hopkins' "Data Science" Specialization
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9)
+- <b><a href="https://www.coursera.org/learn/data-cleaning">Getting and Cleaning Data</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/ZNT6SHP49FD9) / Part of John Hopkins' "Data Science" Specialization
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/r-programming">R Programming</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9)
+- <b><a href="https://www.coursera.org/learn/r-programming">R Programming</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/BE8J2TGHS7W9) / Part of John Hopkins' "Data Science" Specialization
 <p> </p>
 
 
