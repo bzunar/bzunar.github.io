@@ -10,10 +10,10 @@
 
 ## Courses:
 
-- <b><a href="https://www.coursera.org/specializations/jhu-data-science">Data Science Specialization</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)
+- <b><a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins' Data Science Specialization</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/specialization/SBMALZ67K7T2)
 <p> </p>
 
-- <b><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/VMTGUTF65NLB) / Part of John Hopkins' "Data Science" Specialization
+- <b><a href="https://www.coursera.org/learn/data-science-project">Data Science Capstone</a></b> [(certificate)](https://www.coursera.org/account/accomplishments/records/VMTGUTF65NLB) <small>'Data Science' Specialization</small>
   - <details>
      <summary style="color:#1e6bb8;">Assignment: <i>Building a Predictive Text Model</i></summary>
 
